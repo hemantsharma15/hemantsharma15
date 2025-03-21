@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemant Sharma</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-
-<img align="right" alt="coding" width="400" src=" ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/user-attachments/assets/48769bf6-f6be-4c56-88c1-79d253b7db17)">
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working on **college level project**
 
 - 🌱 I’m currently learning **advanced java and dsa**
